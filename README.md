@@ -9,7 +9,7 @@ This repository contains an production-grade, multi-agent Retrieval-Augmented Ge
 ```text
 ├── Workflow Screenshots/              # Contains sequential execution screenshots
 ├── Autonomous Research Assistant.json # Main n8n workflow deployment file
-└── LLM_Lab13_Report.docx              # Comprehensive technical project report
+└── LLM_Lab13_Report.pdf              # Comprehensive technical project report
 
 ```
 
